@@ -1,5 +1,5 @@
 {
-  "name": "a-simple-command-line-calculator-with-typescript-and-node",
+  "name": "a-simple-command-line-calculator-with-typescript-and-node.js",
   "version": "1.0.0",
   "description": "I have developed a simple command line calculator using TypeScript, Node.js, and Inquirer.",
   "type": "module",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/HamzaAhmedSheikh/a-simple-command-line-calculator-with-TypeScript-and-Node.js.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hamza Ahmed Sheikh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HamzaAhmedSheikh/a-simple-command-line-calculator-with-TypeScript-and-Node.js/issues"
